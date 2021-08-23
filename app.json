@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "reviews-app",
-    "slug": "reviews-app",
+    "name": "rn-reviews-app",
+    "slug": "rn-reviews-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
